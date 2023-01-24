@@ -434,6 +434,13 @@ This issue's escalations have been accepted!
 
 Contestants' payouts and scores will be updated according to the changes made on this issue.
 
+**jacksanford1**
+
+The Sentiment team has acknowledged the issue and decided not to move forward with taking this risk on mainnet, until a better fix can be found. From Sentiment on Discord:
+
+> Yeah we'll hold off on launching this pool for now and look into it ourselves once again before taking a final call. For now, we want to maintain our stance on being completely inline with Sherlock's recommendations. 
+
+
 
 
 # Issue M-1: [WP-M1] getRewards() can be triggered by external parties which will result in the rewards not be tracking properly by the system 
@@ -480,6 +487,12 @@ Consider adding all the reward tokens to the account's assets list in `ConvexBoo
 **r0ohafza**
 
 fix: https://github.com/sentimentxyz/controller/pull/54
+
+**jacksanford1**
+
+From WatchPug on Discord:
+
+> The fix to #15 LGTM!
 
 
 
